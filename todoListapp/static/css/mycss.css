@@ -1,0 +1,16 @@
+.striker {
+    text-decoration: line-through;
+}
+h1 {
+  color: #622569;
+}
+h2 {
+  color: #d64161;
+}
+
+tr:nth-child(even){background-color: #622569; }
+tr:nth-child(odd) {background-color: #b30000;}
+
+tr:hover td {background:#5c422e;}
+tr:hover a {color:#ffffff;}
+tr a {color:#ffffff;}
